@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Multi UI App</string>
+    <string name="boxing">Boxing</string>
+    <string name="judo">Judo</string>
+    <string name="kickboxing">Kickboxing</string>
+    <string name="karate">Karate</string>
+    <string name="football">Football</string>
+    <string name="taekwondo">Taekwondo</string>
+    <string name="wrestling">Wrestling</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="linux">Linux</string>
+    <string name="windows">Windows</string>
+</resources>
